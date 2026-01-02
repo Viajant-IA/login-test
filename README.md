@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Viajant-IA/viajant/blob/version/1.0.0/banner_viajant.png" alt="Banner">
+</div>
+
 # Login Test
 
 Um simples portal de teste de autenticação para a plataforma da Viajant, caso a plataforma principal der erro.
